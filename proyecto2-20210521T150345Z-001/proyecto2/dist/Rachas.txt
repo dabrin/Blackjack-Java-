@@ -1,0 +1,6 @@
+najera;21;
+dabrin;0;Tue Nov 22 08:12:18 CST 2016
+dabrin;18;
+dabrin;18;
+najera;15;Tue Nov 22 08:21:49 CST 2016
+dabrin;11;
